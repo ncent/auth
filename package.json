@@ -1,0 +1,27 @@
+{
+  "name": "auth",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "serverless-deployment-bucket": "^1.1.0",
+    "serverless-plugin-additional-stacks": "^1.2.0"
+  },
+  "devDependencies": {
+    "serverless-offline": "^5.12.0",
+    "serverless-prune-plugin": "^1.4.1"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/ncent/auth.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/ncent/auth/issues"
+  },
+  "homepage": "https://gitlab.com/ncent/auth#readme"
+}
